@@ -1,2 +1,2 @@
-# Test2
-The repository for testing homework
+# BL5300
+The repository for the Applied Genomics Course
